@@ -8,9 +8,11 @@
 - ⚡ Fun fact **i'm bad in fortnite**
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
-![VSCODE](https://img.shields.io/badge/Vscode-2962FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6311d6?style=for-the-badge&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-2d84e0?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f1f1f?style=for-the-badge&logo=javascript&logoColor=yellow)
+![HTML](https://img.shields.io/badge/Html5-f25e02?style=for-the-badge&logo=html5&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Marccelo125&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Marccelo125&theme=dark&hide_border=false)<br/>
