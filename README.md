@@ -1,6 +1,6 @@
 # 📌 About Me:
 - 🌼 Hello, my name is Marcelo Duarte. I'm glad you're here!
-- 📖 I'm 18 years old and I live in Brazil.
+- 📖 I'm 19 years old and I live in Brazil.
 - 🏠 I'm a student and passionate about programming, design and moddeling.
 
 ## 🌐 Socials:
