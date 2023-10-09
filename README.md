@@ -2,7 +2,7 @@
 - 📌 Hello, I'm glad you're here!
 - 📖 I'm 19 years old and I live in Rio Grande do Sul in Brazil.
 - 🏠 I'm a student and passionate about programming, design and moddeling.
-- Studying Web Full Stack at <a href="https://www.growdev.com.br/" title="Link para o Site da Growdev">@Growdev<a/> by
+- 😸 Studying Web Full Stack at <a href="https://www.growdev.com.br/" title="Link para o Site da Growdev">@Growdev<a/> by
   <a href="https://sicredipioneira.com.br/" title="Link para o Site da Sicredi Pioneira">@SicrediPioneira<a/>
 
 ## 🗃️ Socials:
