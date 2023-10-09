@@ -2,6 +2,8 @@
 - 📌 Hello, I'm glad you're here!
 - 📖 I'm 19 years old and I live in Rio Grande do Sul in Brazil.
 - 🏠 I'm a student and passionate about programming, design and moddeling.
+- Studying Web Full Stack at <a href="https://www.growdev.com.br/" title="Link para o Site da Growdev" target="_blank">@Growdev<a/> by
+  <a href="https://sicredipioneira.com.br/" title="Link para o Site da Sicredi Pioneira" target="_blank">@SicrediPioneira<a/>
 
 ## 🗃️ Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-duarte-a1268625a/)
