@@ -17,7 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f1f1f?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![HTML](https://img.shields.io/badge/Html5-f25e02?style=for-the-badge&logo=html5&logoColor=white)
 
-## 🛠️Ferramentas de desenvolvimento
+## 🛠️Development Tools
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,ps,pr,github,git,figma,," />
