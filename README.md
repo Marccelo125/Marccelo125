@@ -1,5 +1,5 @@
-# Marcelo Duarte
-- 📌 Hello, I'm glad you're here!
+# Hey There!👋
+- 📌 Hello, I'm Marcelo Duarte, what a pleasure to have you here!
 - 📖 I'm 19 years old and I live in Rio Grande do Sul in Brazil.
 - 🏠 I'm a student and passionate about programming, design and moddeling.
 - 😸 Actually studying Web Full Stack at <a href="https://www.growdev.com.br/" target="_blank" title="Link para o Site da Growdev">@Growdev<a/> by
@@ -11,12 +11,18 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@marccelo125)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551999995918)
 
-
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-6311d6?style=for-the-badge&logo=python&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-2d84e0?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f1f1f?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![HTML](https://img.shields.io/badge/Html5-f25e02?style=for-the-badge&logo=html5&logoColor=white)
+
+## 🛠️Ferramentas de desenvolvimento
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,ps,pr,github,git,figma,," />
+  </a>
+</p>
 
 ## 📊 Stats:
 <div align="left">
