@@ -18,7 +18,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-2d84e0?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-6311d6?style=for-the-badge&logo=python&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-131313?style=for-the-badge&logo=insomnia&logoColor=4B4C94)
-![Postman](https://img.shields.io/badge/Postman-e5cbaf?style=for-the-badge&logo=postman&logoColor=orange)
+![Postman](https://img.shields.io/badge/Postman-ffffff?style=for-the-badge&logo=postman&logoColor=orange)
 
 ## 🛠️Development Tools
 <p align="left">
