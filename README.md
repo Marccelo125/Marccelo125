@@ -19,13 +19,11 @@
 ![SCSS](https://img.shields.io/badge/SCSS-CD6799?style=for-the-badge&logo=sass&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-2d84e0?style=for-the-badge&logo=css3&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-5493f7?style=for-the-badge&logo=dbeaver&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-131313?style=for-the-badge&logo=insomnia&logoColor=4B4C94)
-![Postman](https://img.shields.io/badge/Postman-ffffff?style=for-the-badge&logo=postman&logoColor=orange)
 
 ## 🛠️Development Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,ps,pr,github,git,figma,," />
+    <img src="https://skillicons.dev/icons?i=vscode,postman,ps,pr,github,git,notion,figma&perline=4" />
   </a>
 </p>
 
