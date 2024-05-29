@@ -14,6 +14,7 @@
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f1f1f?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![Php](https://img.shields.io/badge/Php-31283b?style=for-the-badge&logo=php&logoColor=b079f2)
+![Laravel](https://img.shields.io/badge/Laravel-f5663b?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-7b5fed?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/Html5-f25e02?style=for-the-badge&logo=html5&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CD6799?style=for-the-badge&logo=sass&logoColor=white)
