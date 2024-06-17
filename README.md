@@ -1,5 +1,5 @@
-# Hey There!👋
-- 📌 Hello, I'm Marcelo Duarte, what a pleasure to have you here!
+# Welcome to my profile!😁
+- 📌 I'm Marcelo Duarte, what a pleasure to have you here!
 - 📖 I'm 19 years old and I live in Rio Grande do Sul in Brazil.
 - 🏠 I'm a student and passionate about programming, design and moddeling.
 - 😸 Actually studying Web Full Stack at <a href="https://www.growdev.com.br/" target="_blank" title="Link para o Site da Growdev">@Growdev<a/> by
