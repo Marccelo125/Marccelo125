@@ -1,4 +1,4 @@
-# Welcome to my profile!😁
+# Welcome aboard!💫
 - 📌 I'm Marcelo Duarte, what a pleasure to have you here!
 - 📖 I'm 19 years old and I live in Rio Grande do Sul in Brazil.
 - 🏠 I'm a student and passionate about programming, design and moddeling.
