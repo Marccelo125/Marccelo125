@@ -15,6 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f1f1f?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![Php](https://img.shields.io/badge/Php-31283b?style=for-the-badge&logo=php&logoColor=b079f2)
 ![Laravel](https://img.shields.io/badge/Laravel-f5663b?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7b5fed?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-967ef7?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/Html5-f25e02?style=for-the-badge&logo=html5&logoColor=white)
