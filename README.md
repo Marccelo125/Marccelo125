@@ -17,6 +17,7 @@
 ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f1f1f?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![Php](https://img.shields.io/badge/Php-31283b?style=for-the-badge&logo=php&logoColor=b079f2)
+![Vuetify](https://img.shields.io/badge/vuetify-%2335495e.svg?style=for-the-badge&logo=vuetify&logoColor=%4492a9)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7b5fed?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-967ef7?style=for-the-badge&logo=mysql&logoColor=white)
