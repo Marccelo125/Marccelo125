@@ -29,7 +29,7 @@
 ## 🛠️Development Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,ps,pr,github,git,notion,figma&perline=4" />
+    <img src="https://skillicons.dev/icons?i=vscode,postman,docker,ps,pr,git,notion,figma&perline=4" />
   </a>
 </p>
 
