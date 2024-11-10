@@ -12,24 +12,25 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551999995918)
 
 ## 💻 Tech Stack
-![Laravel](https://img.shields.io/badge/Laravel-f5663b?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-f5663b?style=for-the-badge&logo=laravel&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f1f1f?style=for-the-badge&logo=javascript&logoColor=yellow)
-![Php](https://img.shields.io/badge/Php-31283b?style=for-the-badge&logo=php&logoColor=b079f2)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) <br />
+![Php](https://img.shields.io/badge/Php-31283b?style=for-the-badge&logo=php&logoColor=b079f2) 
 ![Vuetify](https://img.shields.io/badge/vuetify-%2335495e.svg?style=for-the-badge&logo=vuetify&logoColor=%4492a9)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7b5fed?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-967ef7?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/Html5-f25e02?style=for-the-badge&logo=html5&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CD6799?style=for-the-badge&logo=sass&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-2d84e0?style=for-the-badge&logo=css3&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-5493f7?style=for-the-badge&logo=dbeaver&logoColor=white)
 
 ## 🛠️Development Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,docker,ps,pr,git,notion,figma&perline=4" />
+    <img src="https://skillicons.dev/icons?i=rider,vscode,visualstudio,postman,mysql,ps,pr,git,notion,figma&perline=5" />
   </a>
 </p>
 
