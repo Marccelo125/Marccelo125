@@ -2,7 +2,7 @@
 - 📌 Hello! I'm Marcelo Duarte, what a pleasure to have you here!
 - 📖 I'm 20 years old and I live in Rio Grande do Sul in Brazil.
 - 🏠 I'm passionate about programming, design and moddeling.
-- 😸 Actually working as a Trainee Dev Full Stack at <a href="https://www.skyinformatica.com.br/" target="_blank" title="Link para o Site da Sky Informática">@Sky Informática</a> by
+- 😸 Working as a Dev Full Stack at <a href="https://www.skyinformatica.com.br/" target="_blank" title="Link para o Site da Sky Informática">@Sky Informática</a> by
   <a href="https://growdev.com.br" target="_blank" title="Link para o Site da Growdev">@Growdev</a>
 
 ## 🗃️ Socials
