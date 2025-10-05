@@ -14,6 +14,7 @@
 ## 💻 Tech Stack
 ![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-f5663b?style=for-the-badge&logo=laravel&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -30,7 +31,7 @@
 ## 🛠️Development Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rider,vscode,visualstudio,postman,mysql,ps,pr,git,notion,figma&perline=5" />
+    <img src="https://skillicons.dev/icons?i=rider,idea,vscode,visualstudio,postman,mysql,mongodb,ps,pr,git,notion,figma&perline=4" />
   </a>
 </p>
 
