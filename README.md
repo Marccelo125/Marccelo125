@@ -1,15 +1,12 @@
 # Welcome aboard!💫
 - 📌 Hello! I'm Marcelo Duarte, what a pleasure to have you here!
-- 📖 I'm 20 years old and I live in Rio Grande do Sul in Brazil.
+- 📖 I'm 21 years old and I live in Rio Grande do Sul in Brazil.
 - 🏠 I'm passionate about programming, design and moddeling.
-- 😸 Working as a Dev Full Stack at <a href="https://www.skyinformatica.com.br/" target="_blank" title="Link para o Site da Sky Informática">@Sky Informática</a> by
-  <a href="https://growdev.com.br" target="_blank" title="Link para o Site da Growdev">@Growdev</a>
+- 😸 Currently working as a Backend Developer at <a href="https://www.skyinformatica.com.br/" target="_blank" title="Link para o Site da Sky Informática">@Sky Informática</a>
 
 ## 🗃️ Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-duarte-a1268625a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.marccelo125@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@marccelo125)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551999995918)
 
 ## 💻 Tech Stack
 ![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
